@@ -1,6 +1,6 @@
 # The-Sparks-Foundation
 
-TSF 1 - Prediction using Supervised ML (Linear Regression)
+TSF 1 - Prediction using Supervised ML (Linear Regression)                                                                                                                            
 Dataset : https://bit.ly/w-data
 
 TSF 2 - Prediction using Unsupervised ML (K Means Clustering)
